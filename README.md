@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mohd.Sohail Ali
+- 👋 Hi, I’m @Gulam_Moinuddin
 - 👀 I’m interested in Learning New skills
 - 🔥 Achieving a milestone in Learning C Language
 - 🌱 I’m currently learning C++ Language 
