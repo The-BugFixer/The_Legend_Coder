@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mohd.Sohail Ali
 - 👀 I’m interested in Learning New skills 
 - 🌱 I’m currently learning C Language 
-- 💞️ I’m looking for collaboration as @Coder_Salaa 
+- 💞️ I’m looking for collaboration as @The-BugFixer 
 - 📫 You can reach me through gulammoinuddin1428@gmail.com
 - 😄 Pronouns: The Legend Coder
 - 😁 Fun fact: I'm totally Noob LOL !!
